@@ -207,9 +207,9 @@ padding: 10px;
 }
 
 .products{
-    padding: 20px;
+    padding: 60px;
     display: flex;
-    gap: 10px;
+    gap: 60px;
     flex-wrap: wrap;
     justify-content: space-between;
     flex-direction: row;
@@ -217,7 +217,7 @@ padding: 10px;
 }
 .products-box{
     text-align: center;
-    flex-basis: 20%;
+    flex-basis: 2%;
 }
 .products-box img {
     border-radius: 2em;
